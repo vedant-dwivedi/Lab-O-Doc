@@ -19,7 +19,7 @@ const About = () => {
 
             {/* ========== About Content ========== */}
             <div className="w-full lg:w-1/2 xl:w-[670px] order-1 lg:order-2">
-              <h2 className="heading"><strong>Proud to be one of the nation's best</strong></h2>
+              <h2 className="heading">Proud to be one of the nation's best</h2>
               <p className="text__para">
                 We excel in addressing diverse healthcare challenges. Our comprehensive approach
                 effectively tackles issues from diagnosis to management,

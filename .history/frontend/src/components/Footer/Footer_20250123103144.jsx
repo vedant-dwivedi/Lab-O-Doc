@@ -37,7 +37,7 @@ const quickLinks01 = [
 
 const quickLinks02 = [
   {
-    path: "/find-a-doctor",
+    path: "/Find-a-doctor",
     display: "Find a Doctor",
   },
   {
@@ -77,7 +77,7 @@ const Footer = () => {
               alt=""
             />
             <p className="text-[16px] leading-7 font-[400] text-textColor mt-4">
-              Copyright &#169; {year} developed by <strong>Lab'&apos;O Doc Team</strong> 
+              Copyright &#169; {year} developed by <strong>Lab&apos;O Doc Team</strong> 
               <p>All right reserved</p>
             </p>
             <div className="flex items-center gap-3 mt-4">

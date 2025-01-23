@@ -20,13 +20,13 @@ const About = () => {
             {/* ========== About Content ========== */}
             <div className="w-full lg:w-1/2 xl:w-[670px] order-1 lg:order-2">
               <h2 className="heading"><strong>Proud to be one of the nation's best</strong></h2>
-              <p className="text__para">
+              <p className="text__para"><strong>
                 We excel in addressing diverse healthcare challenges. Our comprehensive approach
                 effectively tackles issues from diagnosis to management,
                 ensuring patients receive exceptional care and support
                 throughout their treatment journey. By integrating advanced
                 medical practices with personalized care, we aim to improve
-                patient outcomes and quality of life.
+                patient outcomes and quality of life.</strong>
               </p>
               <p className="text__para mt-[30px]">
                 By integrating advanced medical practices with personalized

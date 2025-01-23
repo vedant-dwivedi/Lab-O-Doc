@@ -27,6 +27,8 @@
     "pickle": "^0.2.0",
     "python-shell": "^5.0.0",
     "scikit-learn": "^0.1.0",
-    "stripe": "^14.17.0"
+    "stripe": "^14.17.0",
+    "proxy": "http://localhost:8000"
+
   }
 }
